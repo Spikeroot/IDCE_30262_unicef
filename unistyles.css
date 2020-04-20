@@ -20,7 +20,7 @@ li {
 
 li a {
  display: block;
- font: 1em geneva #303030;
+ font: arial;
  text-align: center;
  padding: 15px 17px;
 }
@@ -33,10 +33,19 @@ li a:hover {
 /*active link will be greyed out and have border*/
 .active {
  border-bottom: 1em solid #1CABE2;
- border-image: radial-gradient(rectangle,#CBCBCB 15%,#F1F1F1 85%) ;
  background-color: #F1F1F1;
 }
 
+a:link {
+  font: arial;
+  color: #303030;
+  text-decoration: none;
+}
+a:visited {
+  font: arial;
+  color: #303030;
+  text-decoration: none;
+}
 
 /* text styling */
 body {background-color: #F1F1F1;
