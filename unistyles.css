@@ -1,41 +1,39 @@
 
 head {
  background-color: #1CABE2;
-  height: 400px;
+ height: 400px;
+ margin-bottom: -10px;
 }
 
 /* List styling     */
 ul {
  list-style-type: none;
- margin: 1px;
- padding: 20px;
+ margin: 0px;
+ padding: 0px;
  overflow: hidden;
  background-color: #FFFFFF;
 }
 
 li {
- float: center;
- font-family: sans-serif;
- font-style: all-caps;
- font-size: 1em;
+ float: left;
 }
 
 li a {
  display: block;
- color: #FFFFFF;
+ font: 1em geneva #303030;
  text-align: center;
  padding: 15px 17px;
 }
 
 /* Links will add blue border to bottom when hovered */
 li a:hover {
- border-bottom: 2em solid #1CABE2;
+ border-bottom: 1em solid #1CABE2;
 }
 
 /*active link will be greyed out and have border*/
 .active {
- border-bottom: 2em solid #1CABE2;
- border: 1px inset #CBCBCB;
+ border-bottom: 1em solid #1CABE2;
+ border-image: radial-gradient(rectangle,#CBCBCB 15%,#F1F1F1 85%) ;
  background-color: #F1F1F1;
 }
 
@@ -50,4 +48,11 @@ h1 {
   font-size: 2em;
   font-family: cRoboto, roboto light, sans-serif;
 
+}
+
+footer {
+  background-color: #1CABE2;
+  color: #FFFFFF;
+  font: 0.7em geneva;
+  height: 100px;
 }
