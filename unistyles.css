@@ -1,0 +1,50 @@
+
+
+
+/* List styling     */
+ul {
+ list-style-type: none;
+ margin: 1px;
+ padding: 20px;
+ overflow: hidden;
+ background-color: #FFFFFF;
+}
+
+li {
+ float: center;
+ font-family: sans-serif;
+ font:
+ font-size: 1em;
+}
+
+li a {
+ display: block;
+ color: #FFFFFF;
+ text-align: center;
+ padding: 15px 17px;
+ text-decoration: all-caps;
+}
+
+/* Links will add blue border to bottom when hovered */
+li a:hover {
+ border-bottom: 2em solid #1CABE2;
+}
+
+/*active link will be greyed out and have border*/
+.active {
+ border-bottom: 2em solid #1CABE2;
+ background-color: #F1F1F1;
+}
+
+
+/* text styling */
+body {background-color: #F1F1F1;
+      font: 1em geneva;
+      color: #000000;
+}
+h1 {
+  color:#FFFFFF;
+  font-size: 2em;
+  font-family: cRoboto, roboto light, sans-serif;
+
+}
