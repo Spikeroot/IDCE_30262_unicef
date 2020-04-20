@@ -2,10 +2,14 @@
 head {
  background-color: #1CABE2;
  height: 400px;
- margin-bottom: -10px;
+ margin: 0px;
  text-align: center;
 }
 
+nav{
+  margin-top: -4px;
+  margin-bottom: -4px;
+}
 /* List styling     */
 ul {
  list-style-type: none;
@@ -28,12 +32,12 @@ li a {
 
 /* Links will add blue border to bottom when hovered */
 li a:hover {
- border-bottom: 1em solid #1CABE2;
+ border-bottom: 0.5em solid #1CABE2;
 }
 
 /*active link will be greyed out and have border*/
 .active {
- border-bottom: 1em solid #1CABE2;
+ border-bottom: 0.5em solid #1CABE2;
  background-color: #F1F1F1;
 }
 
@@ -57,6 +61,7 @@ h1 {
   color:#FFFFFF;
   font-size: 2em;
   font-family: cRoboto, roboto light, sans-serif;
+  text-align: center;
 
 }
 
