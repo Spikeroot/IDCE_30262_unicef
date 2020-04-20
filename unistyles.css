@@ -1,5 +1,8 @@
 
-
+head {
+ background-color: #1CABE2;
+  height: 400px;
+}
 
 /* List styling     */
 ul {
@@ -13,7 +16,7 @@ ul {
 li {
  float: center;
  font-family: sans-serif;
- font:
+ font-style: all-caps;
  font-size: 1em;
 }
 
@@ -22,7 +25,6 @@ li a {
  color: #FFFFFF;
  text-align: center;
  padding: 15px 17px;
- text-decoration: all-caps;
 }
 
 /* Links will add blue border to bottom when hovered */
@@ -33,6 +35,7 @@ li a:hover {
 /*active link will be greyed out and have border*/
 .active {
  border-bottom: 2em solid #1CABE2;
+ border: 1px inset #CBCBCB;
  background-color: #F1F1F1;
 }
 
