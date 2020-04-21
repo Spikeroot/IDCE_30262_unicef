@@ -2,6 +2,7 @@
 head {
  background-color: #1CABE2;
  height: 400px;
+ width: 100%;
  margin: 0px;
  text-align: center;
 }
@@ -25,7 +26,9 @@ li {
 
 li a {
  display: block;
- font: arial;
+ font-family: arial, verdana, sans-serif;
+ font-weight: bolder;
+ font-size: 0.8em;
  text-align: center;
  padding: 15px 17px;
 }
