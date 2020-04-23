@@ -73,8 +73,9 @@ h3{
     font-size: 1em;
     color: #595959;
     background-color: #FFFFFF;
-    border-radius: 25px;
+    border-radius: 15px;
     padding: 20px;
+    box-shadow: 3px 3px #1CABE2;
 }
 
 footer {
