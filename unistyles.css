@@ -65,7 +65,13 @@ h1 {
   font-size: 2em;
   font-family: cRoboto, roboto light, sans-serif;
   text-align: center;
+}
 
+h3{
+    font-family: arial, verdana, sans-serif;
+    font-size: 1em;
+    color: #595959;
+    background-color: #F1F1F1;
 }
 
 footer {
