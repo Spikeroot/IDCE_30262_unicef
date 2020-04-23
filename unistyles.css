@@ -71,7 +71,8 @@ h3{
     font-family: arial, verdana, sans-serif;
     font-size: 1em;
     color: #595959;
-    background-color: #F1F1F1;
+    background-color: #FFFFFF;
+    border-radius: 25px;
 }
 
 footer {
