@@ -103,7 +103,7 @@ article{
 article:hover {
   box-shadow: 2px 2px #595959;
 }
-
+/* sets section rules for flex layout */
   section {
     display: flex;
     flex-direction: row;
