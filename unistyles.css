@@ -3,7 +3,7 @@ header {
  background-color: #1CABE2;
  height: 100px;
  width: 100%;
- margin: 0px -10px 0px -10px;
+ margin: 0px;
  text-align: left;
 }
 
@@ -31,7 +31,7 @@ li a {
  font-weight: bolder;
  font-size: 0.8em;
  text-align: center;
- padding: 15px 17px;
+ padding: 15px 35px;
 }
 
 /* Links will add blue border to bottom when hovered */
