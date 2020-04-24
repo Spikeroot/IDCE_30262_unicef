@@ -31,7 +31,7 @@ li a {
  font-weight: bolder;
  font-size: 0.8em;
  text-align: center;
- padding: 15px 35px;
+ padding: 15px 50px;
 }
 
 /* Links will add blue border to bottom when hovered */
@@ -90,7 +90,7 @@ footer {
 article{
   display: flex;
   background-color: #FFFFFF;
-  box-shadow: 1px 1px #1CABE2;
+  box-shadow: 1px 1px #C1C1C1;
   font-family: arial, verdana, sans-serif;
   font-size: 1em;
   color: #595959;
