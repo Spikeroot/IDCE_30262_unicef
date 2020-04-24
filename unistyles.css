@@ -3,7 +3,7 @@ header {
  background-color: #1CABE2;
  height: 100px;
  max-width: 100%;
- margin: 0px;
+ margin: -10px;
  text-align: left;
 }
 
@@ -98,6 +98,7 @@ article{
   font-family: arial, verdana, sans-serif;
   font-size: 1em;
   color: #595959;
+  padding:20px;
   border-radius: 5px;
 
 }
