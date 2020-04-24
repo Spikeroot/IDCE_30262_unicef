@@ -100,7 +100,9 @@ article{
   margin:20px;
 
 }
-
+article:hover {
+  box-shadow: 2px 2px #595959;
+}
 
   section {
     display: flex;
