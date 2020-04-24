@@ -3,7 +3,7 @@ header {
  background-color: #1CABE2;
  height: 100px;
  max-width: 100%;
- margin: 0px -35px 0px -10px;
+ margin: 0px;
  text-align: left;
 }
 
@@ -76,7 +76,7 @@ h3{
     background-color: #FFFFFF;
     border-radius: 5px;
     padding: 20px;
-    box-shadow: 2px 2px #1CABE2;
+    box-shadow: 1px 1px #1CABE2;
 }
 
 footer {
@@ -85,4 +85,23 @@ footer {
   font-size: 0.7em;
   font-family: arial,verdana, sans-serif;
   height: 100px;
+}
+
+article{
+  -webkit- flex:3;
+  -ms- flex:3;
+  background-color: #FFFFFF;
+  box-shadow: 1px 1px #1CABE2;
+  font-family: arial, verdana, sans-serif;
+  font-size: 1em;
+  color: #595959;
+  border-radius: 5px;
+
+}
+
+@media (max-width: 45%) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
 }
