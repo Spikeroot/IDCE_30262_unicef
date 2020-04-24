@@ -89,10 +89,6 @@ footer {
 
 article{
   display: flex;
-  flex-direction: row;
-  justify-content:center;
-  -webkit- flex:1;
-  -ms- flex:1;
   background-color: #FFFFFF;
   box-shadow: 1px 1px #1CABE2;
   font-family: arial, verdana, sans-serif;
@@ -100,12 +96,14 @@ article{
   color: #595959;
   padding:20px;
   border-radius: 5px;
+  max-width:45%;
 
 }
 
-@media (max-width: 45%) {
+
   section {
-    -webkit-flex-direction: column;
-    flex-direction: column;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+
   }
-}
