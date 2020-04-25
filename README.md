@@ -1,5 +1,5 @@
 # IDCE 30262 Final Project
-The purpose of this project was to create a mock-website for UNICEF hosting various cartographic products. These products deal with topics important to the organization's services and mission and are intended for various audiences and phases of the project cycle.
+The purpose of this project was to demonstrate how web mapping tools can support UNICEF's work and strengthen decision-making practices. This repository contains a mock HTML site for UNICEF hosting several web mapping products; these products address topics important to the organization's services and mission and are intended for various audiences and phases of the project cycle.
 
 ## Education
 
