@@ -19,3 +19,5 @@ The map used in this project, created by Qi Zhang using Mapbox GL JS, displays b
 
 ## Details and Attributions
 All imagery acquired from Unicef.org, spatial data derived from the Humanitarian Data Exchange and Kenya Open Data. This project is not affiliated with UNICEF in any way - the 'Donate' link at the bottom of each page links to UNICEF's COVID relief fund.
+
+## Potential Additions to Product
