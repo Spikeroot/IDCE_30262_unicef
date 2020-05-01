@@ -32,18 +32,15 @@ All imagery acquired from Unicef.org, spatial data derived from the Humanitarian
 ## Limitations of Products
 ### Education
 #### Data Dashboard:
--Limited in to the amount of visualizations you could add to the dashboard. 
--Limited in the variety of widgets that can be added.
+-Limited in to the amount of visualizations you could add to the dashboard. Limited in the variety of widgets that can be added.
 #### Data Sliders:
--With the current dataset, it is difficult to customize the slider format with shapefile features and without raster files.
--Current product limitation is the lack of detail attached to the web map without context surrounding it.
+-With the current dataset, it is difficult to customize the slider format with shapefile features and without raster files. Current product limitation is the lack of detail attached to the web map without context surrounding it.
 ### Health care
 #### Map Box Slider
--Limited in the amount of information that can be displayed between the map and the slider.
--Symbolic options are limited for the heat map creation.
+-Limited in the amount of information that can be displayed between the map and the slider. Symbolic options are limited for the heat map creation.
 
 ## Potential Additions to Project
 ### Addition of Survey123 survey
-Adding a Survey123 survey for the purpose of retrieving information, specifically for reporting poor classroom conditions, would be beneficial for future data that can be displayed on the website.
+Adding a Survey123 survey for the purpose of retrieving information, specifically for reporting poor classroom conditions, would be beneficial for future data that can be displayed on the website. Survey123 would be embedded in the website so the user of the website can fill out directly without being directed to another website. An ArcGIS web map would then be displayed on the same page displaying reports on the schools. Another potential survey can be displayed regarding healthcare, if the demand is there. 
 ### Adding More Narative Elements to Website
-
+Adding an about section with more information about the two subject matters would be beneficial to add more context behind the maps we are displaying. Displaying importatnt datasources and narrative sources would be importatnt to list in order to provide reasoning for the work being done.
