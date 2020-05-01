@@ -17,7 +17,21 @@ The healthcare workforce is small and poorly distributed throughout the country,
 
 The map used in this project, created by Qi Zhang using Mapbox GL JS, displays both point locations of healthcare facilities within Kenya as well as a heatmap showing density of such facilities across the country. Using the slider, the data can be displayed side-by-side.
 
+## Data Used
+### Education
+https://data.world/kenya-open-data/c5eda6b1-0d91-4fad-a493-31254b15db2a
+https://hub.arcgis.com/datasets/66cfcf6d3724405bb15b0099faa46142_0
+https://data.humdata.org/dataset/kenya-distribution-of-population-age-groups-3-years-and-above-by-school-attendance-status-special
+https://data.humdata.org/dataset/kenya-distribution-of-population-aged-above-3-years-by-highest-level-of-education-reached
+### Healthcare
+https://data.world/healthsites/df79db22-da00-4c05-bda0-79c14f27132d
+
 ## Details and Attributions
 All imagery acquired from Unicef.org, spatial data derived from the Humanitarian Data Exchange and Kenya Open Data. This project is not affiliated with UNICEF in any way - the 'Donate' link at the bottom of each page links to UNICEF's COVID relief fund.
+## Limitations of Products
+Data Dashboard:
+-Limited in to the amount of visualizations you could add to the dashboard. 
+-Limited in 
 
-## Potential Additions to Product
+## Potential Additions to Project
+
