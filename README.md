@@ -28,10 +28,22 @@ https://data.world/healthsites/df79db22-da00-4c05-bda0-79c14f27132d
 
 ## Details and Attributions
 All imagery acquired from Unicef.org, spatial data derived from the Humanitarian Data Exchange and Kenya Open Data. This project is not affiliated with UNICEF in any way - the 'Donate' link at the bottom of each page links to UNICEF's COVID relief fund.
+
 ## Limitations of Products
-Data Dashboard:
+### Education
+#### Data Dashboard:
 -Limited in to the amount of visualizations you could add to the dashboard. 
--Limited in 
+-Limited in the variety of widgets that can be added.
+#### Data Sliders:
+-With the current dataset, it is difficult to customize the slider format with shapefile features and without raster files.
+-Current product limitation is the lack of detail attached to the web map without context surrounding it.
+### Health care
+#### Map Box Slider
+-Limited in the amount of information that can be displayed between the map and the slider.
+-Symbolic options are limited for the heat map creation.
 
 ## Potential Additions to Project
+### Addition of Survey123 survey
+Adding a Survey123 survey for the purpose of retrieving information, specifically for reporting poor classroom conditions, would be beneficial for future data that can be displayed on the website.
+### Adding More Narative Elements to Website
 
