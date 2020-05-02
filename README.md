@@ -8,7 +8,7 @@ Kenya has made significant progress in increasing the accessibility of education
 
 Several web mapping products were used within this project to display the dynamics of these inequities. The first is an ArcGIS Online (AGOL) dashboard created by Zoe Maymon. This dashboard presents a nuanced explanation of the distribution of both education access and overcrowding within classrooms, ideal for directing efforts during early decision-making phases. This would likely be an internal-facing map.
 
-The second consists of two separate sliding comparison maps. These maps were created by Qidi Zhang using AGOL Story Map tools. Each map is meant to tell a story by juxtaposing two related datasets where they can be seen side by side. The first compares the distribution of population within Kenya with the distribution of those with primary education. The second compares the distribution of those with primary education against those with higher education, showing the striking concentration of the highly-educated populace around the capital region. These maps are meant to provide an example to the client of how 
+The second consists of two separate sliding comparison maps. These maps were created by Qidi Zhang using AGOL Story Map tools. Each map is meant to tell a story by juxtaposing two related datasets where they can be seen side by side. The first compares the distribution of population within Kenya with the distribution of those with primary education. The second compares the distribution of those with primary education against those with higher education, showing the striking concentration of the highly-educated populace around the capital region. These maps are meant to provide an example to the client of how data can be intuitively represented in a way that conveys complex phenomena.
 
 
 ## Healthcare
@@ -42,5 +42,5 @@ All imagery acquired from Unicef.org, spatial data derived from the Humanitarian
 ## Potential Additions to Project
 ### Addition of Survey123 survey
 Adding a Survey123 survey for the purpose of retrieving information, specifically for reporting poor classroom conditions, would be beneficial for future data that can be displayed on the website. Survey123 would be embedded in the website so the user of the website can fill out directly without being directed to another website. An ArcGIS web map would then be displayed on the same page displaying reports on the schools. Another potential survey can be displayed regarding healthcare, if the demand is there. 
-### Adding More Narative Elements to Website
-Adding an about section with more information about the two subject matters would be beneficial to add more context behind the maps we are displaying. Displaying importatnt datasources and narrative sources would be importatnt to list in order to provide reasoning for the work being done.
+### Adding More Narrative Elements to Website
+Adding an about section with more information about the two subject matters would be beneficial to add more context behind the maps we are displaying. Displaying important datasources and narrative sources would be importatnt to list in order to provide reasoning for the work being done.
