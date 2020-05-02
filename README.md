@@ -15,7 +15,7 @@ The second consists of two separate sliding comparison maps. These maps were cre
 Kenya has made strides in reducing childhood mortality, but significant issues of healthcare access still exist.
 The healthcare workforce is small and poorly distributed throughout the country, making it difficult for many to access services.
 
-The map used in this project, created by Qi Zhang using Mapbox GL JS, displays both point locations of healthcare facilities within Kenya as well as a heatmap showing density of such facilities across the country. Using the slider, the data can be displayed side-by-side.
+The map used in this project, created by Qi Zhang using Mapbox GL JS, displays both point locations of healthcare facilities within Kenya as well as a heatmap showing density of such facilities across the country. Using the slider, the data can be displayed side-by-side. This map is meant to provide an example to the client of how point data can be quickly displayed in an intuitive, public-facing format. This type of product could be used to show both individual project sites as well as a 'heat map' representation of how the organizations efforts are being distributed.
 
 ## Data Used
 ### Education
